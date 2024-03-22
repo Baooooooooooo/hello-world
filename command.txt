@@ -1,0 +1,7 @@
+git init          : tao ra trong may
+git clone         : keo tu tren mang ve 
+git pull          : dong bo tu tren mang ve 
+git add, git add. : them o tren may
+git commit        : 
+git push          : dong bo tu may len mang
+git log - decorate - graph - oneline : check tinh trang file 
